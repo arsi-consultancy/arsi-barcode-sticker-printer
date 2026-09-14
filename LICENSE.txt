@@ -1,0 +1,55 @@
+Arsi Barcode Sticker Printer
+Proprietary Freeware License
+Copyright (c) 2026 Arsi Consultancy. All rights reserved.
+
+1. Definitions
+
+"Software" means Arsi Barcode Sticker Printer and the complete distribution package supplied by Arsi Consultancy, excluding third-party components that are governed by their own license terms.
+
+"Complete Original Package" means the installer and all files, notices, documentation, names, marks, and metadata distributed together by Arsi Consultancy, without any addition, removal, extraction, replacement, or other change.
+
+2. Permission to Use
+
+Subject to this License, Arsi Consultancy grants you a limited, non-exclusive, non-transferable, revocable permission to install and use the Software at no charge for personal or commercial purposes. No ownership or other rights are transferred.
+
+3. Limited Permission to Redistribute
+
+You may redistribute the Software only as the Complete Original Package, unchanged and unmodified, and only if every copyright, license, privacy, attribution, and third-party notice remains intact and readily accessible. You must not state or imply that you developed, published, sponsored, or endorsed the Software.
+
+4. Restrictions
+
+You must not, and must not permit another person to:
+
+(a) sell the Software or charge any fee for the Software itself;
+(b) modify, adapt, translate, patch, or create derivative works from the Software;
+(c) rebrand, rename, white-label, or obscure the Software's origin;
+(d) extract, separate, or redistribute any file, library, artwork, executable, documentation, or other component apart from the Complete Original Package;
+(e) remove, alter, or conceal any notice, attribution, name, mark, link, or metadata;
+(f) represent any person or organisation other than Arsi Consultancy as the developer or publisher; or
+(g) sublicense, rent, lease, or otherwise grant rights in the Software except for the limited redistribution permission in Section 3.
+
+5. Third-Party Components
+
+Third-party components are licensed by their respective copyright holders under the terms identified in THIRD-PARTY-NOTICES.txt and the runtime notice files supplied with the Software. This License does not reduce or replace rights granted directly by those third-party licenses.
+
+6. Ownership and Reservation of Rights
+
+The Software is proprietary. Arsi Consultancy retains all right, title, and interest in the Software that is not expressly granted by this License. All rights not expressly granted are reserved.
+
+7. Termination
+
+Your permission under this License ends automatically if you breach any term. On termination, you must stop using and redistributing the Software and delete copies in your possession or control, except where applicable law requires otherwise.
+
+8. No Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR AVAILABILITY.
+
+9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ARSI CONSULTANCY WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE LOSS OR DAMAGE, OR FOR LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OR GOODWILL, ARISING FROM OR RELATING TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY. NOTHING IN THIS LICENSE EXCLUDES, RESTRICTS, OR MODIFIES ANY RIGHT, REMEDY, WARRANTY, GUARANTEE, OR LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED, RESTRICTED, OR MODIFIED.
+
+10. Contact
+
+Arsi Consultancy
+https://arsi.in
+contact@arsi.in
